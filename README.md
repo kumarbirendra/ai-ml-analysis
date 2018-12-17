@@ -1,1 +1,1 @@
-# ai-ml-analysis
+# Theory of Knowledge Gain & Processing
